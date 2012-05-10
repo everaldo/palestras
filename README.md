@@ -15,12 +15,12 @@ ______
 
 * Dependências
 
-    sudo apt-get install python-pygments
-    sudo apt-get install python-jinja2
-    sudo apt-get install python-docutils
-    sudo apt-get install python-markdown
-    sudo apt-get install python-setuptools
-    sudo apt-get install libssl0.9.8:i386
+    $ sudo apt-get install python-pygments
+    $ sudo apt-get install python-jinja2
+    $ sudo apt-get install python-docutils
+    $ sudo apt-get install python-markdown
+    $ sudo apt-get install python-setuptools
+    $ sudo apt-get install libssl0.9.8:i386
 
 
 * PrinceXML (para gerar PDF)
